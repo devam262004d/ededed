@@ -1,4 +1,4 @@
-const { number } = require("framer-motion");
+
 const User = require("./user");
 const bCrypt = require("bcryptjs");
 const cleanObject = require("../utility/fieldFilter");
